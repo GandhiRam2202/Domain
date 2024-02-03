@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(270deg,rgb(53, 53, 104),white,rgb(53, 53, 104));
+}
+
+.card{
+    background: linear-gradient(270deg,rgb(53, 53, 104),white,rgb(53, 53, 104));
+    margin-top: 50px;
+    height: 100%;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+img{
+    width: 100%;
+    
+}
+button{
+    width: 100%;
+}
+
+.container-fluid{
+    z-index: 1;
+    top: 0;
+ background: rgb(36, 36, 97);
+ color: white;
+}
+
+.card-header{
+    background-color: black;
+}
