@@ -17,4 +17,4 @@ To run this project locally, follow these steps:
 
 + Clone the repository:
 
-(Marvel API)[https://grpmarvel.netlify.app/]
+[Marvel API](https://grpmarvel.netlify.app/)
